@@ -1,0 +1,4 @@
+﻿  ProcessB.cpp
+c:\users\administrator\source\repos\滴水3期作业\6-11\processb\processb.cpp(8): warning C4129: “M”: 不可识别的字符转义序列
+c:\users\administrator\source\repos\滴水3期作业\6-11\processb\processb.cpp(74): warning C4715: “TestDllRead”: 不是所有的控件路径都返回值
+  ProcessB.vcxproj -> C:\Users\Administrator\source\repos\滴水3期作业\6-11\Debug\ProcessB.exe

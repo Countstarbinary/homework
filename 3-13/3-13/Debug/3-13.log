@@ -1,0 +1,6 @@
+﻿  13.c
+c:\users\administrator\source\repos\滴水3期作业\3-13\3-13\13.c(87): warning C4474: printf: 格式字符串中传递的参数太多
+  c:\users\administrator\source\repos\滴水3期作业\3-13\3-13\13.c(87): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+c:\users\administrator\source\repos\滴水3期作业\3-13\3-13\13.c(107): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“”
+c:\users\administrator\source\repos\滴水3期作业\3-13\3-13\13.c(141): warning C4133: “函数”: 从“char *”到“LPCWSTR”的类型不兼容
+  3-13.vcxproj -> C:\Users\Administrator\source\repos\滴水3期作业\3-13\Debug\3-13.exe

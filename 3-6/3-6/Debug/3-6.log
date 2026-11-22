@@ -1,0 +1,4 @@
+﻿  3-6.cpp
+c:\users\administrator\source\repos\滴水3期作业\3-6\3-6\3-6.cpp(23): warning C4838: 从“int”转换到“char”需要收缩转换
+c:\users\administrator\source\repos\滴水3期作业\3-6\3-6\3-6.cpp(23): warning C4309: “初始化”: 截断常量值
+  3-6.vcxproj -> C:\Users\Administrator\source\repos\滴水3期作业\3-6\Debug\3-6.exe

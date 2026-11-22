@@ -1,0 +1,35 @@
+﻿  main.c
+c:\users\administrator\source\repos\滴水3期作业\5-21\5-21\5-21.h(4): warning C4005: “RT_CURSOR”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(228): note: 参见“RT_CURSOR”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\5-21\5-21\5-21.h(5): warning C4005: “RT_BITMAP”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(229): note: 参见“RT_BITMAP”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\5-21\5-21\5-21.h(6): warning C4005: “RT_ICON”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(230): note: 参见“RT_ICON”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\5-21\5-21\5-21.h(7): warning C4005: “RT_MENU”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(231): note: 参见“RT_MENU”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\5-21\5-21\5-21.h(8): warning C4005: “RT_DIALOG”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(232): note: 参见“RT_DIALOG”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\5-21\5-21\5-21.h(9): warning C4005: “RT_STRING”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(233): note: 参见“RT_STRING”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\5-21\5-21\5-21.h(10): warning C4005: “RT_FONTDIR”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(234): note: 参见“RT_FONTDIR”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\5-21\5-21\5-21.h(11): warning C4005: “RT_FONT”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(235): note: 参见“RT_FONT”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\5-21\5-21\5-21.h(12): warning C4005: “RT_ACCELERATOR”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(236): note: 参见“RT_ACCELERATOR”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\5-21\5-21\5-21.h(13): warning C4005: “RT_RCDATA”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(237): note: 参见“RT_RCDATA”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\5-21\5-21\5-21.h(14): warning C4005: “RT_MESSAGETABLE”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(238): note: 参见“RT_MESSAGETABLE”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\5-21\5-21\5-21.h(15): warning C4005: “RT_GROUP_CURSOR”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(241): note: 参见“RT_GROUP_CURSOR”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\5-21\5-21\5-21.h(16): warning C4005: “RT_GROUP_ICON”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(242): note: 参见“RT_GROUP_ICON”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\5-21\5-21\5-21.h(17): warning C4005: “RT_VERSION”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(243): note: 参见“RT_VERSION”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\5-21\5-21\main.c(8): warning C4133: “函数”: 从“unsigned short [64]”到“char *”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\5-21\5-21\main.c(8): warning C4133: “函数”: 从“unsigned short [15]”到“char *”的类型不兼容
+  正在生成代码
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  5-21.vcxproj -> C:\Users\Administrator\source\repos\滴水3期作业\5-21\Release\5-21.exe

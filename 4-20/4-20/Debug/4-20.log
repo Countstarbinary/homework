@@ -1,0 +1,4 @@
+﻿  4-20.cpp
+c:\users\administrator\source\repos\滴水3期作业\4-20\4-20\4-20.cpp(12): warning C4305: “初始化”: 从“int”到“char”截断
+c:\users\administrator\source\repos\滴水3期作业\4-20\4-20\4-20.cpp(12): warning C4309: “初始化”: 截断常量值
+  4-20.vcxproj -> C:\Users\Administrator\source\repos\滴水3期作业\4-20\Debug\4-20.exe

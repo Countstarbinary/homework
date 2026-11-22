@@ -1,0 +1,6 @@
+﻿  3-4.cpp
+c:\users\administrator\source\repos\滴水3期作业\3-4\3-4\3-4.cpp(84): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“stud []”
+c:\users\administrator\source\repos\滴水3期作业\3-4\3-4\3-4.cpp(86): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“stud []”
+c:\users\administrator\source\repos\滴水3期作业\3-4\3-4\3-4.cpp(91): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *[]”
+c:\users\administrator\source\repos\滴水3期作业\3-4\3-4\3-4.cpp(93): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *[]”
+  3-4.vcxproj -> C:\Users\Administrator\source\repos\滴水3期作业\3-4\Debug\3-4.exe

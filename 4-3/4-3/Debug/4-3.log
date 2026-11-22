@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\administrator\source\repos\滴水3期作业\4-3\4-3\main.cpp(28): error C2248: “MyClass::privateFunc”: 无法访问 private 成员(在“MyClass”类中声明)
+  c:\users\administrator\source\repos\滴水3期作业\4-3\4-3\main.cpp(22): note: 参见“MyClass::privateFunc”的声明
+  c:\users\administrator\source\repos\滴水3期作业\4-3\4-3\main.cpp(20): note: 参见“MyClass”的声明

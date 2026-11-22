@@ -1,0 +1,16 @@
+﻿  3-16.c
+c:\users\administrator\source\repos\滴水3期作业\3-16\3-16\3-16.c(18): warning C4098: “FileToMemoryFunciton”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\3-16\3-16\3-16.c(26): warning C4098: “FileToMemoryFunciton”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\3-16\3-16\3-16.c(52): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PIMAGE_SECTION_HEADER”
+c:\users\administrator\source\repos\滴水3期作业\3-16\3-16\3-16.c(67): warning C4098: “MemoryToFileFunciton”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\3-16\3-16\3-16.c(75): warning C4098: “MemoryToFileFunciton”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\3-16\3-16\3-16.c(100): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PIMAGE_SECTION_HEADER”
+c:\users\administrator\source\repos\滴水3期作业\3-16\3-16\3-16.c(134): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滴水3期作业\3-16\3-16\3-16.c(134): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滴水3期作业\3-16\3-16\3-16.c(128): warning C4101: “OptionHeader”: 未引用的局部变量
+c:\users\administrator\source\repos\滴水3期作业\3-16\3-16\3-16.c(149): warning C4133: “函数”: 从“char *”到“LPCWSTR”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\3-16\3-16\3-16.c(206): error C2374: “bytesRead”: 重定义；多次初始化
+  c:\users\administrator\source\repos\滴水3期作业\3-16\3-16\3-16.c(172): note: 参见“bytesRead”的声明
+  main.c
+c:\users\administrator\source\repos\滴水3期作业\3-16\3-16\main.c(11): warning C4133: “函数”: 从“unsigned short [32]”到“char *”的类型不兼容
+  正在生成代码...

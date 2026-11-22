@@ -1,0 +1,32 @@
+﻿  10.cpp
+c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\10.cpp(7): error C2955: “Number”: 使用 类 模板 需要 模板 参数列表
+  c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\10.h(5): note: 参见“Number”的声明
+c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\10.cpp(8): error C2079: “operator +”使用未定义的 class“Number”
+c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\10.cpp(32): error C2440: “return”: 无法从“Number”转换为“Number”
+  c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\10.cpp(32): note: 由于复制构造函数不明确或没有可用的复制构造函数，因此无法复制构造 class“Number”
+c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\10.cpp(36): error C2079: “operator -”使用未定义的 class“Number”
+c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\10.cpp(54): error C2440: “return”: 无法从“Number”转换为“Number”
+  c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\10.cpp(54): note: 由于复制构造函数不明确或没有可用的复制构造函数，因此无法复制构造 class“Number”
+c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\10.cpp(59): error C2061: 语法错误: 标识符“T”
+c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\10.cpp(60): error C2079: “operator *”使用未定义的 class“Number”
+c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\10.cpp(68): error C2065: “p”: 未声明的标识符
+c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\10.cpp(74): error C2065: “p”: 未声明的标识符
+c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\10.cpp(99): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\10.cpp(106): error C2440: “return”: 无法从“Number”转换为“Number”
+  c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\10.cpp(106): note: 由于复制构造函数不明确或没有可用的复制构造函数，因此无法复制构造 class“Number”
+c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\10.cpp(110): error C2079: “operator /”使用未定义的 class“Number”
+c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\10.cpp(149): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\10.cpp(156): error C2440: “return”: 无法从“Number”转换为“Number”
+  c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\10.cpp(156): note: 由于复制构造函数不明确或没有可用的复制构造函数，因此无法复制构造 class“Number”
+  main.cpp
+c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\main.cpp(58): error C2955: “Number”: 使用 类 模板 需要 模板 参数列表
+  c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\10.h(5): note: 参见“Number”的声明
+c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\main.cpp(58): error C2514: “Number”: 类没有构造函数
+  c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\10.h(5): note: 参见“Number”的声明
+c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\main.cpp(59): error C2514: “Number”: 类没有构造函数
+  c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\10.h(5): note: 参见“Number”的声明
+c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\main.cpp(60): error C2676: 二进制“/”:“Number”不定义该运算符或到预定义运算符可接收的类型的转换
+c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\main.cpp(62): error C2662: “void Number<T>::print(void)”: 不能将“this”指针从“Number”转换为“Number<T> &”
+  c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\main.cpp(62): note: 原因如下: 无法从“Number”转换为“Number<T>”
+  c:\users\administrator\source\repos\滴水3期作业\4-10\4-10\main.cpp(62): note: 转换要求第二个用户定义的转换运算符或构造函数
+  正在生成代码...

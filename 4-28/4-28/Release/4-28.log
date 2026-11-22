@@ -1,0 +1,625 @@
+﻿  4-28.c
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\4-28.c(124): warning C4047: “=”:“DWORD64”与“BYTE *”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\4-28.c(135): warning C4047: “=”:“DWORD64”与“BYTE *”的间接级别不同
+  main.c
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\main.c(31): warning C4013: “AddListMoudle”未定义；假设外部返回 int
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\main.c(155): warning C4013: “FileToFileBuffer”未定义；假设外部返回 int
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\main.c(159): warning C4013: “OutputExportDirtory”未定义；假设外部返回 int
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\main.c(162): warning C4013: “OutputImportDirtory”未定义；假设外部返回 int
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\main.c(165): warning C4013: “OutputResourceDirtory”未定义；假设外部返回 int
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\main.c(168): warning C4013: “OutputReloacationDirtory”未定义；假设外部返回 int
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\main.c(171): warning C4013: “OutputBoundImportDirtory”未定义；假设外部返回 int
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\main.c(174): warning C4013: “OutputIATDirtory”未定义；假设外部返回 int
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\main.c(288): warning C4028: 形参 3 与声明不同
+  pe.c
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(4): warning C4005: “RT_CURSOR”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(228): note: 参见“RT_CURSOR”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(5): warning C4005: “RT_BITMAP”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(229): note: 参见“RT_BITMAP”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(6): warning C4005: “RT_ICON”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(230): note: 参见“RT_ICON”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(7): warning C4005: “RT_MENU”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(231): note: 参见“RT_MENU”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(8): warning C4005: “RT_DIALOG”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(232): note: 参见“RT_DIALOG”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(9): warning C4005: “RT_STRING”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(233): note: 参见“RT_STRING”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(10): warning C4005: “RT_FONTDIR”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(234): note: 参见“RT_FONTDIR”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(11): warning C4005: “RT_FONT”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(235): note: 参见“RT_FONT”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(12): warning C4005: “RT_ACCELERATOR”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(236): note: 参见“RT_ACCELERATOR”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(13): warning C4005: “RT_RCDATA”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(237): note: 参见“RT_RCDATA”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(14): warning C4005: “RT_MESSAGETABLE”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(238): note: 参见“RT_MESSAGETABLE”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(15): warning C4005: “RT_GROUP_CURSOR”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(241): note: 参见“RT_GROUP_CURSOR”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(16): warning C4005: “RT_GROUP_ICON”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(242): note: 参见“RT_GROUP_ICON”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(17): warning C4005: “RT_VERSION”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(243): note: 参见“RT_VERSION”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(94): warning C4474: printf: 格式字符串中传递的参数太多
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(94): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(114): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(148): warning C4133: “函数”: 从“char *”到“LPCWSTR”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(213): warning C4098: “FileToMemoryFunciton”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(221): warning C4098: “FileToMemoryFunciton”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(247): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PIMAGE_SECTION_HEADER”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(262): warning C4098: “MemoryToFileFunciton”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(270): warning C4098: “MemoryToFileFunciton”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(295): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PIMAGE_SECTION_HEADER”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(343): warning C4133: “函数”: 从“char *”到“LPCWSTR”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(388): warning C4133: “函数”: 从“char *”到“LPCWSTR”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(408): warning C4098: “FileBufferToImageBuffer”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(426): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PIMAGE_SECTION_HEADER”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(437): warning C4098: “ImageBufferToFileBuffer”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(454): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PIMAGE_SECTION_HEADER”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(518): warning C4098: “Shellcode_E8_E9_calculateToTargetSection”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(549): warning C4098: “Shellcode_E8_E9_calculateToNewSection”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(660): warning C4047: “函数”:“char *”与“char **”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(660): warning C4024: “FileToFileBuffer”: 形参和实参 2 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(662): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(697): warning C4047: “函数”:“char *”与“char **”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(697): warning C4024: “FileToFileBuffer”: 形参和实参 2 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(698): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(769): warning C4098: “OutPutAllDirtory”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(779): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(880): warning C4047: “return”:“char *”与“BOOL”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(899): warning C4047: “return”:“char *”与“BOOL”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(912): warning C4047: “=”:“DWORD”与“PIMAGE_SECTION_HEADER”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(928): warning C4047: “return”:“char *”与“BOOL”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(954): warning C4047: “return”:“char *”与“BOOL”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1011): warning C4047: “函数”:“char *”与“char **”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1011): warning C4024: “FileToFileBuffer”: 形参和实参 2 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1012): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1026): warning C4029: 声明的形参表不同于定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1043): warning C4098: “OutputExportDirtory”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1081): warning C4002: 类函数宏的调用“TEXT”参数过多
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1081): warning C4473: “swprintf”: 没有为格式字符串传递足够的参数
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1081): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1081): note: 缺失的可变参数 1 为格式字符串“%x”所需
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1083): warning C4002: 类函数宏的调用“TEXT”参数过多
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1083): warning C4473: “swprintf”: 没有为格式字符串传递足够的参数
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1083): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1083): note: 缺失的可变参数 1 为格式字符串“%x”所需
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1085): warning C4002: 类函数宏的调用“TEXT”参数过多
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1085): warning C4473: “swprintf”: 没有为格式字符串传递足够的参数
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1085): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1085): note: 缺失的可变参数 1 为格式字符串“%x”所需
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1087): warning C4002: 类函数宏的调用“TEXT”参数过多
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1087): warning C4473: “swprintf”: 没有为格式字符串传递足够的参数
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1087): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1087): note: 缺失的可变参数 1 为格式字符串“%x”所需
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1094): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1098): warning C4133: “=”: 从“char *”到“PDWORD”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1102): warning C4133: “=”: 从“char *”到“PDWORD”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1106): warning C4133: “=”: 从“char *”到“PWORD”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1110): warning C4133: “=”: 从“char *”到“PDWORD”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1123): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“PDWORD”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1123): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“char *”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1124): warning C4477: “swprintf”: 格式字符串“%hs”需要类型“char *”的参数，但可变参数 1 拥有了类型“PDWORD”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1124): warning C4477: “swprintf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“char *”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1130): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“PDWORD”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1130): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“char *”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1131): warning C4477: “swprintf”: 格式字符串“%hs”需要类型“char *”的参数，但可变参数 1 拥有了类型“PDWORD”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1131): warning C4477: “swprintf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“char *”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1140): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1144): warning C4133: “=”: 从“char *”到“PDWORD”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1158): warning C4477: “swprintf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“char *”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1164): warning C4477: “swprintf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“char *”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1039): warning C4047: “初始化”:“DWORD”与“void *”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1204): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1208): warning C4133: “=”: 从“char *”到“PDWORD”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1212): warning C4133: “=”: 从“char *”到“PDWORD”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1216): warning C4133: “=”: 从“char *”到“PWORD”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1220): warning C4133: “=”: 从“char *”到“PDWORD”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1229): warning C4133: “函数”: 从“PDWORD”到“const char *”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1188): warning C4047: “初始化”:“DWORD”与“void *”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1271): warning C4133: “=”: 从“char *”到“PDWORD”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1253): warning C4047: “初始化”:“DWORD”与“void *”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1299): warning C4098: “OutputReloacationDirtory”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1333): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1431): warning C4133: “=”: 从“char *”到“PDWORD”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1435): warning C4133: “=”: 从“char *”到“PDWORD”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1439): warning C4133: “=”: 从“char *”到“PWORD”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1449): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1452): warning C4133: “=”: 从“char *”到“PDWORD”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1454): warning C4133: “函数”: 从“PDWORD”到“const char *”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1428): warning C4047: “初始化”:“DWORD”与“void *”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1546): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1585): warning C4098: “OutputImportDirtory”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1609): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1630): warning C4133: “=”: 从“char *”到“int *”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1608): warning C4133: “初始化”: 从“char *”到“int *”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1612): warning C4047: “初始化”:“DWORD”与“void *”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1670): warning C4098: “OutputIATDirtory”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1695): warning C4133: “初始化”: 从“PIMAGE_THUNK_DATA”到“int *”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1696): warning C4101: “name”: 未引用的局部变量
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1726): warning C4098: “OutputBoundImportDirtory”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1760): warning C4133: “=”: 从“PIMAGE_BOUND_IMPORT_DESCRIPTOR”到“PIMAGE_BOUND_FORWARDER_REF”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1763): warning C4133: “=”: 从“char *”到“int *”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1764): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1765): warning C4477: “swprintf”: 格式字符串“%hs”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1768): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1770): warning C4133: “=”: 从“char *”到“int *”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1771): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1772): warning C4477: “swprintf”: 格式字符串“%hs”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1794): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1801): warning C4133: “函数”: 从“char [9]”到“const wchar_t *const ”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1812): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1817): warning C4133: “函数”: 从“char [9]”到“const wchar_t *const ”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1791): warning C4133: “初始化”: 从“char *”到“PIMAGE_RESOURCE_DIRECTORY”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1799): warning C4047: “初始化”:“PIMAGE_RESOURCE_DIR_STRING_U”与“DWORD”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1809): warning C4133: “初始化”: 从“char *”到“PIMAGE_RESOURCE_DIRECTORY”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1816): warning C4047: “初始化”:“PIMAGE_RESOURCE_DIR_STRING_U”与“DWORD”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1824): warning C4133: “初始化”: 从“char *”到“PIMAGE_DATA_DIRECTORY”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1833): warning C4133: “初始化”: 从“char *”到“PIMAGE_DATA_DIRECTORY”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1858): warning C4098: “OutputResourceDirtory”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1888): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1893): warning C4133: “函数”: 从“char [9]”到“const wchar_t *const ”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.c(1892): warning C4047: “初始化”:“PIMAGE_RESOURCE_DIR_STRING_U”与“DWORD”的间接级别不同
+  UI.c
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(4): warning C4005: “RT_CURSOR”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(228): note: 参见“RT_CURSOR”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(5): warning C4005: “RT_BITMAP”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(229): note: 参见“RT_BITMAP”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(6): warning C4005: “RT_ICON”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(230): note: 参见“RT_ICON”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(7): warning C4005: “RT_MENU”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(231): note: 参见“RT_MENU”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(8): warning C4005: “RT_DIALOG”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(232): note: 参见“RT_DIALOG”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(9): warning C4005: “RT_STRING”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(233): note: 参见“RT_STRING”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(10): warning C4005: “RT_FONTDIR”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(234): note: 参见“RT_FONTDIR”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(11): warning C4005: “RT_FONT”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(235): note: 参见“RT_FONT”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(12): warning C4005: “RT_ACCELERATOR”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(236): note: 参见“RT_ACCELERATOR”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(13): warning C4005: “RT_RCDATA”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(237): note: 参见“RT_RCDATA”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(14): warning C4005: “RT_MESSAGETABLE”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(238): note: 参见“RT_MESSAGETABLE”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(15): warning C4005: “RT_GROUP_CURSOR”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(241): note: 参见“RT_GROUP_CURSOR”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(16): warning C4005: “RT_GROUP_ICON”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(242): note: 参见“RT_GROUP_ICON”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\pe.h(17): warning C4005: “RT_VERSION”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winuser.h(243): note: 参见“RT_VERSION”的前一个定义
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(66): warning C4047: “函数”:“LPARAM”与“LVITEMW *”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(66): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(107): warning C4477: “swprintf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“DWORD64”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(107): note: 请考虑在格式字符串中使用“%llu”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(107): note: 请考虑在格式字符串中使用“%I64u”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(187): warning C4477: “swprintf”: 格式字符串“%llu”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(187): note: 请考虑在格式字符串中使用“%lu”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(193): warning C4477: “swprintf”: 格式字符串“%llu”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(193): note: 请考虑在格式字符串中使用“%lu”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(262): warning C4133: “函数”: 从“TCHAR *”到“char *”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(262): warning C4047: “函数”:“char *”与“char **”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(262): warning C4024: “FileToFileBuffer”: 形参和实参 2 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(265): warning C4098: “AddListSectionItem”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(286): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(286): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(292): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(292): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(298): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(298): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(305): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(305): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(312): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(312): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(329): warning C4013: “printf”未定义；假设外部返回 int
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(334): warning C4133: “函数”: 从“TCHAR *”到“char *”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(334): warning C4047: “函数”:“char *”与“char **”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(334): warning C4024: “FileToFileBuffer”: 形参和实参 2 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(339): warning C4098: “GetPeItem”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(344): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(344): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(345): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(345): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(347): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(347): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(348): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(348): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(350): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(350): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(351): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(351): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(353): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(353): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(354): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(354): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(356): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(356): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(357): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(357): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(359): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(359): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(360): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(360): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(362): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(362): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(363): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(363): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(365): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(365): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(366): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(366): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(368): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(368): note: 请考虑在格式字符串中使用“%X”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(368): note: 请考虑在格式字符串中使用“%IX”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(368): note: 请考虑在格式字符串中使用“%I32X”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(369): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(369): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(371): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(371): note: 请考虑在格式字符串中使用“%X”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(371): note: 请考虑在格式字符串中使用“%IX”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(371): note: 请考虑在格式字符串中使用“%I32X”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(372): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(372): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(374): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(374): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(375): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(375): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(377): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(377): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(378): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(378): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(380): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(380): note: 请考虑在格式字符串中使用“%X”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(380): note: 请考虑在格式字符串中使用“%IX”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(380): note: 请考虑在格式字符串中使用“%I32X”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(381): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(381): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(383): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(383): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(384): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(384): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(386): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(386): note: 请考虑在格式字符串中使用“%X”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(386): note: 请考虑在格式字符串中使用“%IX”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(386): note: 请考虑在格式字符串中使用“%I32X”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(387): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(387): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(389): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(389): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(390): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(390): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(394): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(394): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(395): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(395): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(398): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(398): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(400): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(400): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(401): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(401): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(403): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(403): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(404): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(404): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(406): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(406): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(407): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(407): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(409): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(409): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(410): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(410): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(412): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(412): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(413): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(413): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(415): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(415): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(416): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(416): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(418): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(418): note: 请考虑在格式字符串中使用“%X”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(418): note: 请考虑在格式字符串中使用“%IX”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(418): note: 请考虑在格式字符串中使用“%I32X”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(419): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(419): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(421): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(421): note: 请考虑在格式字符串中使用“%X”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(421): note: 请考虑在格式字符串中使用“%IX”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(421): note: 请考虑在格式字符串中使用“%I32X”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(422): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(422): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(424): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(424): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(425): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(425): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(427): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(427): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(428): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(428): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(430): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(430): note: 请考虑在格式字符串中使用“%X”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(430): note: 请考虑在格式字符串中使用“%IX”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(430): note: 请考虑在格式字符串中使用“%I32X”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(431): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(431): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(433): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(433): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(434): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(434): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(436): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(436): note: 请考虑在格式字符串中使用“%X”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(436): note: 请考虑在格式字符串中使用“%IX”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(436): note: 请考虑在格式字符串中使用“%I32X”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(437): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(437): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(439): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(439): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(440): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(440): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(457): warning C4133: “函数”: 从“TCHAR *”到“char *”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(457): warning C4047: “函数”:“char *”与“char **”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(457): warning C4024: “FileToFileBuffer”: 形参和实参 2 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(462): warning C4098: “GetDirItem”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(469): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(469): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(470): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(470): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(471): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(471): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(472): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(472): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(475): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(475): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(476): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(476): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(477): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(477): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(478): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(478): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(481): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(481): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(482): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(482): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(483): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(483): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(484): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(484): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(487): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(487): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(488): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(488): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(489): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(489): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(490): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(490): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(493): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(493): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(494): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(494): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(495): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(495): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(496): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(496): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(499): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(499): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(500): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(500): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(501): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(501): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(502): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(502): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(505): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(505): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(506): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(506): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(507): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(507): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(508): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(508): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(511): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(511): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(512): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(512): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(513): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(513): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(514): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(514): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(517): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(517): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(518): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(518): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(519): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(519): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(520): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(520): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(523): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(523): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(524): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(524): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(525): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(525): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(526): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(526): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(529): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(529): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(530): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(530): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(531): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(531): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(532): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(532): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(535): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(535): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(536): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(536): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(537): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(537): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(538): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(538): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(541): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(541): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(542): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(542): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(543): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(543): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(544): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(544): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(547): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(547): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(548): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(548): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(549): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(549): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(550): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(550): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(553): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(553): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(554): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(554): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(555): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(555): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(556): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(556): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(559): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(559): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(560): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(560): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(561): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(561): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(562): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(562): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(567): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(567): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(568): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(568): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(569): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(569): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(570): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(570): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(573): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(573): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(574): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(574): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(575): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(575): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(576): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(576): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(579): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(579): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(580): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(580): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(581): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(581): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(582): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(582): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(585): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(585): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(586): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(586): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(587): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(587): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(588): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(588): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(591): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(591): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(592): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(592): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(593): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(593): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(594): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(594): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(597): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(597): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(598): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(598): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(599): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(599): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(600): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(600): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(603): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(603): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(604): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(604): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(605): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(605): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(606): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(606): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(609): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(609): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(610): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(610): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(611): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(611): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(612): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(612): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(615): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(615): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(616): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(616): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(617): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(617): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(618): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(618): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(621): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(621): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(622): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(622): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(623): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(623): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(624): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(624): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(627): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(627): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(628): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(628): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(629): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(629): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(630): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(630): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(633): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(633): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(634): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(634): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(635): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(635): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(636): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(636): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(639): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(639): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(640): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(640): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(641): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(641): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(642): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(642): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(645): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(645): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(646): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(646): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(647): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(647): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(648): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(648): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(651): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(651): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(652): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(652): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(653): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(653): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(654): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(654): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(657): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(657): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(658): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(658): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(659): warning C4477: “swprintf”: 格式字符串“%llX”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(659): note: 请考虑在格式字符串中使用“%lX”
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(660): warning C4047: “函数”:“LPARAM”与“TCHAR [128]”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\4-28\4-28\ui.c(660): warning C4024: “SendDlgItemMessageW”: 形参和实参 5 的类型不同
+  正在生成代码
+  All 39 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  4-28.vcxproj -> C:\Users\Administrator\source\repos\滴水3期作业\4-28\Release\4-28.exe

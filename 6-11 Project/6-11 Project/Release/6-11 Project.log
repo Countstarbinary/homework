@@ -1,0 +1,31 @@
+﻿  6-11 Project.cpp
+c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(131): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PIMAGE_SECTION_HEADER”
+c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(410): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“DWORD64”
+  c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(410): note: 请考虑在格式字符串中使用“%llx”
+  c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(410): note: 请考虑在格式字符串中使用“%I64x”
+c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(417): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“DWORD64”
+  c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(417): note: 请考虑在格式字符串中使用“%llx”
+  c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(417): note: 请考虑在格式字符串中使用“%I64x”
+c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(463): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(502): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(732): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HWND”
+c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(751): warning C4129: “M”: 不可识别的字符转义序列
+c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(798): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“LPVOID”
+c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(836): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“TCHAR *”
+c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(837): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“TCHAR *”
+c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(838): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“TCHAR *”
+c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(839): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“TCHAR *”
+c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(936): warning C4244: “参数”: 从“DWORD64”转换到“SIZE_T”，可能丢失数据
+c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(941): warning C4244: “参数”: 从“DWORD64”转换到“size_t”，可能丢失数据
+c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(944): warning C4244: “参数”: 从“DWORD64”转换到“size_t”，可能丢失数据
+c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(947): warning C4244: “参数”: 从“DWORD64”转换到“DWORD”，可能丢失数据
+c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(955): warning C4244: “参数”: 从“DWORD64”转换到“SIZE_T”，可能丢失数据
+c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(969): warning C4244: “参数”: 从“DWORD64”转换到“SIZE_T”，可能丢失数据
+c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(977): warning C4244: “=”: 从“DWORD64”转换到“DWORD”，可能丢失数据
+c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(986): warning C4244: “参数”: 从“DWORD64”转换到“SIZE_T”，可能丢失数据
+  main.cpp
+  正在生成代码
+c:\users\administrator\source\repos\滴水3期作业\6-11 project\6-11 project\6-11 project.cpp(997): warning C4715: “LoadMemory”: 不是所有的控件路径都返回值
+  All 22 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  6-11 Project.vcxproj -> C:\Users\Administrator\source\repos\滴水3期作业\6-11 Project\Release\6-11 Project.exe

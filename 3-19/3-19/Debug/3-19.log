@@ -1,0 +1,17 @@
+﻿  19.c
+c:\users\administrator\source\repos\滴水3期作业\3-19\3-19\19.c(62): warning C4133: “函数”: 从“char *”到“LPCWSTR”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\3-19\3-19\19.c(117): warning C4098: “FileBufferToImageBuffer”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\3-19\3-19\19.c(135): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PIMAGE_SECTION_HEADER”
+c:\users\administrator\source\repos\滴水3期作业\3-19\3-19\19.c(146): warning C4098: “ImageBufferToFileBuffer”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\3-19\3-19\19.c(163): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PIMAGE_SECTION_HEADER”
+c:\users\administrator\source\repos\滴水3期作业\3-19\3-19\19.c(172): warning C4028: 形参 1 与声明不同
+c:\users\administrator\source\repos\滴水3期作业\3-19\3-19\19.c(199): warning C4098: “Shellcode_E8_E9_calculateToTargetSection”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\3-19\3-19\19.c(230): warning C4098: “Shellcode_E8_E9_calculateToNewSection”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\3-19\3-19\19.c(341): warning C4047: “函数”:“char *”与“char **”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\3-19\3-19\19.c(341): warning C4024: “FileToFileBuffer”: 形参和实参 2 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\3-19\3-19\19.c(343): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+c:\users\administrator\source\repos\滴水3期作业\3-19\3-19\19.c(410): warning C4047: “初始化”:“DWORD”与“PIMAGE_SECTION_HEADER”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\3-19\3-19\19.c(494): warning C4047: “函数”:“char *”与“char **”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\3-19\3-19\19.c(494): warning C4024: “FileToFileBuffer”: 形参和实参 2 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\3-19\3-19\19.c(495): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+  3-19.vcxproj -> C:\Users\Administrator\source\repos\滴水3期作业\3-19\Debug\3-19.exe

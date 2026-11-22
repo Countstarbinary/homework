@@ -1,0 +1,46 @@
+﻿  27.c
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(52): warning C4133: “函数”: 从“char *”到“LPCWSTR”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(97): warning C4133: “函数”: 从“char *”到“LPCWSTR”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(264): warning C4047: “return”:“char *”与“BOOL”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(283): warning C4047: “return”:“char *”与“BOOL”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(296): warning C4047: “=”:“DWORD”与“PIMAGE_SECTION_HEADER”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(312): warning C4047: “return”:“char *”与“BOOL”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(338): warning C4047: “return”:“char *”与“BOOL”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(395): warning C4047: “函数”:“char *”与“char **”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(395): warning C4024: “FileToFileBuffer”: 形参和实参 2 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(396): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(424): warning C4098: “OutputExportDirtory”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(452): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(456): warning C4133: “=”: 从“char *”到“PDWORD”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(460): warning C4133: “=”: 从“char *”到“PDWORD”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(464): warning C4133: “=”: 从“char *”到“PWORD”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(468): warning C4133: “=”: 从“char *”到“PDWORD”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(481): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“PDWORD”
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(481): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“char *”
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(486): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“PDWORD”
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(486): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“char *”
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(420): warning C4047: “初始化”:“DWORD”与“void *”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(505): warning C4098: “OutputReloacationDirtory”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(532): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(612): warning C4133: “=”: 从“char *”到“PDWORD”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(616): warning C4133: “=”: 从“char *”到“PDWORD”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(620): warning C4133: “=”: 从“char *”到“PWORD”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(630): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(633): warning C4133: “=”: 从“char *”到“PDWORD”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(635): warning C4133: “函数”: 从“PDWORD”到“const char *”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(609): warning C4047: “初始化”:“DWORD”与“void *”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(727): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(763): warning C4098: “OutputImportDirtory”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(780): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(799): warning C4133: “=”: 从“char *”到“int *”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(779): warning C4133: “初始化”: 从“char *”到“int *”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(783): warning C4047: “初始化”:“DWORD”与“void *”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(831): warning C4098: “OutputIATDirtory”:“void”函数返回值
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(850): warning C4133: “初始化”: 从“PIMAGE_THUNK_DATA”到“int *”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\27.c(851): warning C4101: “name”: 未引用的局部变量
+  main.c
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\main.c(20): warning C4133: “函数”: 从“unsigned short [13]”到“char *”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\main.c(20): warning C4047: “函数”:“char *”与“char **”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\3-27\3-27\main.c(20): warning C4024: “FileToFileBuffer”: 形参和实参 2 的类型不同
+  正在生成代码...
+  3-27.vcxproj -> C:\Users\Administrator\source\repos\滴水3期作业\3-27\Debug\3-27.exe

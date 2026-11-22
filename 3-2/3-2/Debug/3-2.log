@@ -1,0 +1,5 @@
+﻿  3-2.c
+c:\users\administrator\source\repos\滴水3期作业\3-2\3-2\3-2.c(56): warning C4013: “memset”未定义；假设外部返回 int
+c:\users\administrator\source\repos\滴水3期作业\3-2\3-2\3-2.c(64): warning C4047: “=”:“int”与“char *”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\3-2\3-2\3-2.c(109): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+  3-2.vcxproj -> C:\Users\Administrator\source\repos\滴水3期作业\3-2\Debug\3-2.exe

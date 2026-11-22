@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\administrator\source\repos\滴水3期作业\3-24\3-24\main.c(18): warning C4133: “函数”: 从“unsigned short [12]”到“char *”的类型不兼容
+c:\users\administrator\source\repos\滴水3期作业\3-24\3-24\main.c(18): warning C4047: “函数”:“char *”与“char **”的间接级别不同
+c:\users\administrator\source\repos\滴水3期作业\3-24\3-24\main.c(18): warning C4024: “FileToFileBuffer”: 形参和实参 2 的类型不同
+c:\users\administrator\source\repos\滴水3期作业\3-24\3-24\main.c(19): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+  3-24.vcxproj -> C:\Users\Administrator\source\repos\滴水3期作业\3-24\Debug\3-24.exe

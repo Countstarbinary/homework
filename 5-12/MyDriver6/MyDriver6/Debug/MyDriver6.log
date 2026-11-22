@@ -1,0 +1,6 @@
+﻿  Building 'MyDriver6' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\MyDriver6.inf
+  Stamping [Version] section with DriverVer=07/13/2025,16.33.35.508
+  1.c
+1.obj : error LNK2001: 无法解析的外部符号 _ExMutantObjectType
+C:\Users\Administrator\source\repos\滴水3期作业\5-12\MyDriver6\Debug\MyDriver6.sys : fatal error LNK1120: 1 个无法解析的外部命令

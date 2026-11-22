@@ -1,0 +1,82 @@
+﻿  4-27.cpp
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(42): error C2440: “=”: 无法从“PVOID”转换为“PIMAGE_OPTIONAL_HEADER”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(42): note: 从“void*”到指向非“void”的指针的强制转换要求显式类型强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(52): error C2664: “HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)”: 无法将参数 1 从“char *”转换为“LPCWSTR”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(52): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(97): error C2664: “HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)”: 无法将参数 1 从“char *”转换为“LPCWSTR”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(97): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(194): error C2440: “初始化”: 无法从“void *”转换为“char *”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(194): note: 从“void*”到指向非“void”的指针的强制转换要求显式类型强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(263): error C2440: “return”: 无法从“BOOL”转换为“char *”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(263): note: 从整型强制转换为指针类型要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(282): error C2440: “return”: 无法从“BOOL”转换为“char *”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(282): note: 从整型强制转换为指针类型要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(295): error C2440: “=”: 无法从“PIMAGE_SECTION_HEADER”转换为“DWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(295): note: 没有使该转换得以执行的上下文
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(311): error C2440: “return”: 无法从“BOOL”转换为“char *”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(311): note: 从整型强制转换为指针类型要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(334): error C2440: “初始化”: 无法从“void *”转换为“PIMAGE_SECTION_HEADER”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(334): note: 从“void*”到指向非“void”的指针的强制转换要求显式类型强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(337): error C2440: “return”: 无法从“BOOL”转换为“char *”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(337): note: 从整型强制转换为指针类型要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(363): error C2440: “初始化”: 无法从“void *”转换为“char *”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(363): note: 从“void*”到指向非“void”的指针的强制转换要求显式类型强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(394): error C2664: “BOOL FileToFileBuffer(char *,char *)”: 无法将参数 2 从“char **”转换为“char *”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(394): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(395): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(423): error C2562: “OutputExportDirtory”:“void”函数返回值
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(408): note: 参见“OutputExportDirtory”的声明
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(451): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(455): error C2440: “=”: 无法从“char *”转换为“PDWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(455): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(459): error C2440: “=”: 无法从“char *”转换为“PDWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(459): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(463): error C2440: “=”: 无法从“char *”转换为“PWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(463): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(467): error C2440: “=”: 无法从“char *”转换为“PDWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(467): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(480): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“PDWORD”
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(480): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“char *”
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(485): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“PDWORD”
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(485): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“char *”
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(504): error C2562: “OutputReloacationDirtory”:“void”函数返回值
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(498): note: 参见“OutputReloacationDirtory”的声明
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(531): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(611): error C2440: “=”: 无法从“char *”转换为“PDWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(611): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(615): error C2440: “=”: 无法从“char *”转换为“PDWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(615): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(619): error C2440: “=”: 无法从“char *”转换为“PWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(619): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(629): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(632): error C2440: “=”: 无法从“char *”转换为“PDWORD”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(632): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(634): error C2664: “size_t strlen(const char *)”: 无法将参数 1 从“PDWORD”转换为“const char *”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(634): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(726): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(762): error C2562: “OutputImportDirtory”:“void”函数返回值
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(759): note: 参见“OutputImportDirtory”的声明
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(778): error C2440: “初始化”: 无法从“char *”转换为“int *”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(778): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(779): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(798): error C2440: “=”: 无法从“char *”转换为“int *”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(798): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(830): error C2562: “OutputIATDirtory”:“void”函数返回值
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(826): note: 参见“OutputIATDirtory”的声明
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(849): error C2440: “初始化”: 无法从“PIMAGE_THUNK_DATA”转换为“int *”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(849): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(875): error C2562: “OutputBoundImportDirtory”:“void”函数返回值
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(872): note: 参见“OutputBoundImportDirtory”的声明
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(903): error C2440: “=”: 无法从“PIMAGE_BOUND_IMPORT_DESCRIPTOR”转换为“PIMAGE_BOUND_FORWARDER_REF”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(903): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(906): error C2440: “=”: 无法从“char *”转换为“int *”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(906): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(907): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(910): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(912): error C2440: “=”: 无法从“char *”转换为“int *”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(912): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\4-27.cpp(913): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+  main.cpp
+c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\main.cpp(20): error C2664: “BOOL FileToFileBuffer(char *,char *)”: 无法将参数 1 从“const wchar_t [13]”转换为“char *”
+  c:\users\administrator\source\repos\滴水3期作业\4-27\4-27\main.cpp(20): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+  正在生成代码...

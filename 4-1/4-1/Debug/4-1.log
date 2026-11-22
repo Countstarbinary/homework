@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\administrator\source\repos\滴水3期作业\4-1\4-1\main.cpp(25): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  c:\users\administrator\source\repos\滴水3期作业\4-1\4-1\main.cpp(25): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  c:\users\administrator\source\repos\滴水3期作业\4-1\4-1\main.cpp(25): note: 缺失的可变参数 1 为格式字符串“%x”所需
+c:\users\administrator\source\repos\滴水3期作业\4-1\4-1\main.cpp(54): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“Per *”
+c:\users\administrator\source\repos\滴水3期作业\4-1\4-1\main.cpp(54): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“Per *”
+  4-1.vcxproj -> C:\Users\Administrator\source\repos\滴水3期作业\4-1\Debug\4-1.exe
